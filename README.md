@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Anik and I'm a full stack  from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Anik and I'm a full stack Dev  from Bangladesh</h2>
 
 ###
 
