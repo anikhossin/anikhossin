@@ -29,6 +29,7 @@ Always learning. Always building. Always improving.
 * Next.js
 * React
 * React Native
+* Svelte 
 
 ### **Backend & Systems**
 
