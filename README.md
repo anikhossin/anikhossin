@@ -1,4 +1,4 @@
-## 👋 Hi, I’m **Asbron**
+## 👋 Hi, I’m **Sahed Hachan aka Asbron**
 
 **Web Developer & Backend Specialist**
 
